@@ -1,0 +1,25 @@
+@charset "UTF-8";
+.media-object-default .media .d-flex.mr-3.img-fluid {
+    background-color: #E0A773;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,205,121,1.00) 52.11%,rgba(255,197,99,1.00) 61.07%,rgba(255,183,62,1.00) 75.30%,rgba(255,160,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,205,121,1.00) 52.11%,rgba(255,197,99,1.00) 61.07%,rgba(255,183,62,1.00) 75.30%,rgba(255,160,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,205,121,1.00) 52.11%,rgba(255,197,99,1.00) 61.07%,rgba(255,183,62,1.00) 75.30%,rgba(255,160,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,205,121,1.00) 52.11%,rgba(255,197,99,1.00) 61.07%,rgba(255,183,62,1.00) 75.30%,rgba(255,160,0,1.00) 100%);
+    -webkit-box-shadow: 0px 0px #F4D7A3;
+    box-shadow: 0px 0px #F4D7A3;
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark .navbar-brand .container-fluid {
+    background-color: #F0BF92;
+    background-repeat: repeat;
+    background-image: -webkit-linear-gradient(270deg,rgba(241,192,148,1.00) 0%,rgba(244,150,116,1.00) 21.77%,rgba(246,123,95,1.00) 36.20%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(241,192,148,1.00) 0%,rgba(244,150,116,1.00) 21.77%,rgba(246,123,95,1.00) 36.20%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(241,192,148,1.00) 0%,rgba(244,150,116,1.00) 21.77%,rgba(246,123,95,1.00) 36.20%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(241,192,148,1.00) 0%,rgba(244,150,116,1.00) 21.77%,rgba(246,123,95,1.00) 36.20%,rgba(255,0,0,1.00) 100%);
+}
+.container-fluid {
+    background-color: #E2C193;
+    background-image: -webkit-linear-gradient(270deg,rgba(235,202,112,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(235,202,112,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(235,202,112,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(235,202,112,1.00) 0%,rgba(255,0,0,1.00) 100%);
+}
